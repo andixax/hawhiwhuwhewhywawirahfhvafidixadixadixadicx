@@ -5,6 +5,8 @@
 pkg install git
 git clone https://github.com/andixax/hawhiwhuwhewhywawirahfhvafidixadixadixadicx
 
+#### $ MASUK FOLDER NGL SPAM
+cd hawhiwhuwhewhywawirahfhvafidixadixadixadicx
 #### Pip Install
 pip install -r s.txt
 
