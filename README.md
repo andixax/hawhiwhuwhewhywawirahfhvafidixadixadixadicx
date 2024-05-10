@@ -20,6 +20,7 @@ python3 ngls
 
 
 
+.
 
 
 
@@ -39,11 +40,48 @@ python3 ngls
 
 
 
+.
 
 
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+.
+
+
+
+
+
+. 
+
+
+
+
+...
+
+
+
+
+
+
+
+<tab>
 
 
 
 
 
 <h9> Hasil Recode :)  Maaf Kan Saya</h9>
+</tab>
