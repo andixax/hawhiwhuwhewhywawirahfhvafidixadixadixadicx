@@ -6,6 +6,9 @@
 
 #### Git Clone
 pkg install git
+
+
+
 git clone https://github.com/andixax/hawhiwhuwhewhywawirahfhvafidixadixadixadicx
 
 #### $ MASUK FOLDER NGL SPAM
@@ -15,6 +18,9 @@ pip install -r s.txt
 
 #### Menjalankan 
 pkg install python3
+
+
+
 python3 ngls
 
 
